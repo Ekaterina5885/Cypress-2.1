@@ -1,0 +1,5 @@
+{
+    "day": "[data-time-stamp='1639429200']",
+    "time": ":nth-child(2) > .movie-seances__hall > .movie-seances__list > .movie-seances__time-block > .movie-seances__time",
+    "place": ".buying-scheme__wrapper > :nth-child(1) > :nth-child(10)"
+}

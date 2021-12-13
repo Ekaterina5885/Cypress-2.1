@@ -1,0 +1,19 @@
+{
+  "name": "cypress-2.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:dashboard": "npx cypress run --record --key bb42fa7d-e253-4343-9e63-258cfcee09d5"
+  },
+  "author": "Ekaterina",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.1.0",
+    "chai": "^4.3.4",
+    "cypress": "^9.1.1",
+    "cypress-file-upload": "^5.0.8",
+    "eslint": "^8.4.1",
+    "prettier": "^2.5.1"
+  }
+}
